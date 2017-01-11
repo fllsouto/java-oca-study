@@ -13,7 +13,7 @@ package src.chapter1;
 */
 
 /*
-* Sobrescrita do wildcard por que ser menos preciso que o outro (Funciona!)
+* Sobrescrita do wildcard. Ele tem menor prioridade (Funciona!)
 *
 * import java.util.Date;
 * import java.sql.*;
